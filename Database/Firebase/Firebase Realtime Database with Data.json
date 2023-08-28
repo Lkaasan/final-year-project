@@ -1,0 +1,259 @@
+{
+  "chatrooms": {
+    "-NOLUiTKsTlSCRpyro3F": {
+      "firstUser": "lkaasan",
+      "jobID": "1",
+      "messages": [
+        {
+          "createdAt": "2023-02-17T16:33:33.362Z",
+          "sender": "lkaasan",
+          "text": "lkaasan has accepted your application for 'Fence Painted' at the rate of £20/hr. Discuss a suitable dates and time!"
+        },
+        {
+          "createdAt": "2023-02-17T16:34:00.798Z",
+          "sender": "lkaasan",
+          "text": "Job has been complete. Thank you!"
+        },
+        {
+          "createdAt": "2023-02-17T16:44:35.434Z",
+          "sender": "lkaasan",
+          "text": "lkaasan has accepted your application for 'Dog Sitting' at the rate of £12/hr. Discuss a suitable dates and time!"
+        },
+        {
+          "createdAt": "2023-02-17T16:44:56.581Z",
+          "sender": "lkaasan",
+          "text": "Job has been complete. Thank you!"
+        },
+        {
+          "createdAt": "2023-03-03T14:10:20.208Z",
+          "sender": "lkaasan",
+          "text": "hello"
+        }
+      ],
+      "secondUser": "Test"
+    },
+    "-NOPiTzsbMB2A7dSKnGG": {
+      "firstUser": "asmale",
+      "jobID": "4",
+      "messages": [
+        {
+          "createdAt": "2023-02-16T14:56:19.147Z",
+          "sender": "asmale",
+          "text": "asmale has accepted your application for 'Fence painting' at the rate of £26/hr. Discuss a suitable dates and time!"
+        },
+        {
+          "createdAt": "2023-02-16T14:56:32.561Z",
+          "sender": "asmale",
+          "text": "hello i am free tomorrow"
+        },
+        {
+          "createdAt": "2023-02-20T16:46:27.471Z",
+          "sender": "lkaasan",
+          "text": "I am also free tomorrow"
+        },
+        null,
+        null,
+        {
+          "createdAt": "2023-02-27T16:15:55.339Z",
+          "sender": "asmale",
+          "text": "Job has been complete. Thank you!"
+        }
+      ],
+      "secondUser": "lkaasan"
+    },
+    "-NPYgMfQKaVMzFYYG4RT": {
+      "firstUser": "Rawan",
+      "jobID": "14",
+      "messages": [
+        {
+          "createdAt": "2023-03-01T23:05:28.365Z",
+          "sender": "Rawan",
+          "text": "Rawan has accepted your application for 'installing wardrobe' at the rate of £15/hr. Discuss a suitable dates and time!"
+        },
+        {
+          "createdAt": "2023-03-03T14:06:55.412Z",
+          "sender": "asmale",
+          "text": "Hello I Am free any time"
+        }
+      ],
+      "secondUser": "asmale"
+    },
+    "-NPboah6wQ8ZydSMCex1": {
+      "firstUser": "asmale",
+      "jobID": "3",
+      "messages": [
+        {
+          "createdAt": "2023-03-03T14:13:51.225Z",
+          "sender": "asmale",
+          "text": "asmale has accepted your application for 'Lawn Mowing' at the rate of £18/hr. Discuss a suitable dates and time!"
+        },
+        {
+          "createdAt": "2023-03-03T14:51:56.620Z",
+          "sender": "d016",
+          "text": "Hi"
+        },
+        {
+          "createdAt": "2023-03-03T15:26:21.415Z",
+          "sender": "d016",
+          "text": "Hello"
+        },
+        {
+          "createdAt": "2023-03-03T15:29:20.509Z",
+          "sender": "asmale",
+          "text": "Hi"
+        }
+      ],
+      "secondUser": "d016"
+    },
+    "-NPc2jOMB3LGrgdgS2P1": {
+      "firstUser": "bobby2",
+      "jobID": "16",
+      "messages": [
+        {
+          "createdAt": "2023-03-03T15:19:58.317Z",
+          "sender": "bobby2",
+          "text": "bobby2 has accepted your application for 'Wall Painting' at the rate of £14/hr. Discuss a suitable dates and time!"
+        },
+        {
+          "createdAt": "2023-03-03T15:20:27.741Z",
+          "sender": "bobby2",
+          "text": "Job has been complete. Thank you!"
+        }
+      ],
+      "secondUser": "lkaasan"
+    }
+  },
+  "users": {
+    "Rawan": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "friends": [
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/26photo.jpg",
+          "chatroomId": "-NPYgMfQKaVMzFYYG4RT",
+          "username": "asmale"
+        }
+      ],
+      "username": "Rawan"
+    },
+    "Test": {
+      "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/2846608f-203f-49fe-82f6-844a3f485510.png",
+      "friends": [
+        {
+          "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+          "chatroomId": "-NOLUiTKsTlSCRpyro3F",
+          "username": "lkaasan"
+        }
+      ],
+      "username": "Test"
+    },
+    "Test2": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "username": "Test2"
+    },
+    "Test5": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "username": "Test5"
+    },
+    "Testing": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "username": "Testing"
+    },
+    "Testing123": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "username": "Testing123"
+    },
+    "Testing1234": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "username": "Testing1234"
+    },
+    "Testing2": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "username": "Testing2"
+    },
+    "asmale": {
+      "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/2846608f-203f-49fe-82f6-844a3f485510.png",
+      "friends": [
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/2846608f-203f-49fe-82f6-844a3f485510.png",
+          "chatroomId": "-NOPiTzsbMB2A7dSKnGG",
+          "username": "lkaasan"
+        },
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/2846608f-203f-49fe-82f6-844a3f485510.png",
+          "chatroomId": "-NPYgMfQKaVMzFYYG4RT",
+          "username": "Rawan"
+        },
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/13photo.jpg",
+          "chatroomId": "-NPboah6wQ8ZydSMCex1",
+          "username": "d016"
+        }
+      ],
+      "username": "asmale"
+    },
+    "bobby2": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "friends": [
+        {
+          "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+          "chatroomId": "-NPc2jOMB3LGrgdgS2P1",
+          "username": "lkaasan"
+        }
+      ],
+      "username": "bobby2"
+    },
+    "d016": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "friends": [
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/26photo.jpg",
+          "chatroomId": "-NPboah6wQ8ZydSMCex1",
+          "username": "asmale"
+        }
+      ],
+      "username": "d016"
+    },
+    "lkaasan": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "friends": [
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/34photo.jpg",
+          "chatroomId": "-NOLUiTKsTlSCRpyro3F",
+          "username": "Test"
+        },
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/26photo.jpg",
+          "chatroomId": "-NOPiTzsbMB2A7dSKnGG",
+          "username": "asmale"
+        },
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/88photo.jpg",
+          "chatroomId": "-NPc2jOMB3LGrgdgS2P1",
+          "username": "bobby2"
+        }
+      ],
+      "username": "lkaasan"
+    },
+    "m": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "username": "m"
+    },
+    "null": {
+      "friends": [
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/34photo.jpg"
+        },
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/26photo.jpg"
+        },
+        {
+          "avatar": "https://raptor.kent.ac.uk/proj/comp6000/project/08/uploads/88photo.jpg"
+        }
+      ]
+    },
+    "testertesster": {
+      "avatar": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fnobita.me%2Fresources%2Favatar-from-url.86%2F&psig=AOvVaw1HkgvX6GHC1E4KWum1aYA8&ust=1667929212435000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJDj19POnPsCFQAAAAAdAAAAABAO",
+      "username": "testertesster"
+    }
+  }
+}

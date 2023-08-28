@@ -1,0 +1,6 @@
+date jobs were posted 
+date applications were made
+how to tell if an application was accepted
+jobs_hosted, jobs_completed can be calculated
+chats system could use firebase instead
+filtering for fields (catagories).

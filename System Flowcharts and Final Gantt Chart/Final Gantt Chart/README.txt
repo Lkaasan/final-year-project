@@ -1,0 +1,1 @@
+This is a final gantt chart of what each member contributed to the project over the whole development period.
